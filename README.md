@@ -1,1 +1,1 @@
-a simple snake game built using html, css and js.
+A simple snake game built using html, css and js.
